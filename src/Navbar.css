@@ -1,0 +1,29 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.nav-left{
+    padding-top:15px;
+    font-size: 20px;
+}
+
+
+
+.nav-right-heading{
+    display: flex;
+    list-style-type: none;
+}
+
+.nav-content{
+    padding: 10px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.nav-logo-content{
+    text-decoration: none;
+    
+    
+}
